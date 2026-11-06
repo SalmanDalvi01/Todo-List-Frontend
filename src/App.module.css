@@ -138,6 +138,8 @@
     width: 100%;
   }
 
+
+  
   .taskItem {
     align-items: flex-start;
     flex-direction: column;
